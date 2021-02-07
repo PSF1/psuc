@@ -7,6 +7,7 @@ Initially this project was developed as a part of "[MachineKit](http://www.machi
 Default controller type is Arduino Mini Pro 5V, PS is PicoPSU.
 
 **WARNING**: do not connect both 5V from ATX +5VSB and serial programmer the same time when you are flashing controller !!!
+
 **WARNING**: Verify that VSB is 5V, and that PS_ON is 3.3V.
 
 Components:
